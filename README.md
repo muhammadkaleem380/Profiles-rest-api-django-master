@@ -1,1 +1,1 @@
-# Profiles-rest-api-django-master
+# Profiles-rest-api-django
